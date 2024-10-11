@@ -1,6 +1,30 @@
-Partial Empirical Reward Distribution: {2.5e-05: 1.0}
+Partial Empirical Reward Distribution: {0.25: 1.0}
 Agent checkpoint saved at iteration 0 in 5.
 Model checkpoint saved at iteration 0 in 5.
-Partial Empirical Reward Distribution: {2.5e-05: 0.9730342741935484, 6.400000000000002e-05: 0.025957661290322582, 0.0040960000000000015: 0.0010080645161290322}
-Partial Empirical Reward Distribution: {2.5e-05: 0.9774590163934426, 6.400000000000002e-05: 0.02190061475409836, 0.0040960000000000015: 0.0006403688524590163}
-Partial Empirical Reward Distribution: {2.5e-05: 0.9824004120879121, 6.400000000000002e-05: 0.017170329670329672, 0.0040960000000000015: 0.00042925824175824175}
+Partial Empirical Reward Distribution: {0.25: 0.9765625, 1: 0.022681451612903226, 4: 0.0007560483870967742}
+Partial Empirical Reward Distribution: {0.25: 0.9811731557377049, 1: 0.01831454918032787, 4: 0.0005122950819672131}
+Partial Empirical Reward Distribution: {0.25: 0.9781936813186813, 1: 0.021119505494505496, 4: 0.0006868131868131869}
+Partial Empirical Reward Distribution: {0.25: 0.9770790289256198, 1: 0.02221074380165289, 4: 0.0007102272727272727}
+Partial Empirical Reward Distribution: {0.25: 0.9674565397350994, 1: 0.031146523178807946, 4: 0.0013969370860927152}
+Partial Empirical Reward Distribution: {0.25: 0.96295, 1: 0.03545, 4: 0.0016}
+Partial Empirical Reward Distribution: {0.25: 0.9606, 1: 0.0372, 4: 0.0022}
+Partial Empirical Reward Distribution: {0.25: 0.95615, 1: 0.04145, 4: 0.0024}
+Partial Empirical Reward Distribution: {0.25: 0.94655, 1: 0.05095, 4: 0.0025}
+Partial Empirical Reward Distribution: {0.25: 0.95255, 1: 0.04545, 4: 0.002}
+Partial Empirical Reward Distribution: {0.25: 0.9623, 1: 0.03635, 4: 0.00135}
+Partial Empirical Reward Distribution: {0.25: 0.96145, 1: 0.03785, 4: 0.0007}
+Partial Empirical Reward Distribution: {0.25: 0.9665, 1: 0.03305, 4: 0.00045}
+Partial Empirical Reward Distribution: {0.25: 0.96355, 1: 0.0358, 4: 0.00065}
+Partial Empirical Reward Distribution: {0.25: 0.963, 1: 0.036, 4: 0.001}
+Partial Empirical Reward Distribution: {0.25: 0.96285, 1: 0.03615, 4: 0.001}
+Partial Empirical Reward Distribution: {0.25: 0.96115, 1: 0.0375, 4: 0.00135}
+Partial Empirical Reward Distribution: {0.25: 0.9631, 1: 0.0356, 4: 0.0013}
+Partial Empirical Reward Distribution: {0.25: 0.9625, 1: 0.03595, 4: 0.00155}
+Partial Empirical Reward Distribution: {0.25: 0.9778, 1: 0.0213, 4: 0.0009}
+Partial Empirical Reward Distribution: {0.25: 0.97385, 1: 0.02505, 4: 0.0011}
+Partial Empirical Reward Distribution: {0.25: 0.96305, 1: 0.03585, 4: 0.0011}
+Partial Empirical Reward Distribution: {0.25: 0.9581, 1: 0.0405, 4: 0.0014}
+Partial Empirical Reward Distribution: {0.25: 0.96, 1: 0.03905, 4: 0.00095}
+Partial Empirical Reward Distribution: {0.25: 0.9564, 1: 0.0426, 4: 0.001}
+Partial Empirical Reward Distribution: {0.25: 0.94935, 1: 0.04935, 4: 0.0013}
+Partial Empirical Reward Distribution: {0.25: 0.95115, 1: 0.0475, 4: 0.00135}

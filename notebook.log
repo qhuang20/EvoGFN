@@ -1,0 +1,35 @@
+nohup: ignoring input
+[W 2024-10-11 09:31:11.934 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2024-10-11 09:31:11.979 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-10-11 09:31:11.979 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-10-11 09:31:11.982 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-10-11 09:31:11.986 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-10-11 09:31:11.989 ServerApp] notebook | extension was successfully linked.
+[I 2024-10-11 09:31:12.138 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-10-11 09:31:12.155 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-10-11 09:31:12.156 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-10-11 09:31:12.157 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-10-11 09:31:12.158 LabApp] JupyterLab extension loaded from /home/dannyhuang/miniconda3/envs/GFN/lib/python3.9/site-packages/jupyterlab
+[I 2024-10-11 09:31:12.158 LabApp] JupyterLab application directory is /home/dannyhuang/miniconda3/envs/GFN/share/jupyter/lab
+[I 2024-10-11 09:31:12.159 LabApp] Extension Manager is 'pypi'.
+[I 2024-10-11 09:31:12.168 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-10-11 09:31:12.170 ServerApp] notebook | extension was successfully loaded.
+[I 2024-10-11 09:31:12.170 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-10-11 09:31:12.171 ServerApp] Serving notebooks from local directory: /home/dannyhuang/gflownet/frontline
+[I 2024-10-11 09:31:12.171 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-10-11 09:31:12.171 ServerApp] http://localhost:8889/tree?token=4ef534b5b6d07c241e41359398eac14293ade1a4aaf25adb
+[I 2024-10-11 09:31:12.171 ServerApp]     http://127.0.0.1:8889/tree?token=4ef534b5b6d07c241e41359398eac14293ade1a4aaf25adb
+[I 2024-10-11 09:31:12.171 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-10-11 09:31:12.174 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/dannyhuang/.local/share/jupyter/runtime/jpserver-296067-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=4ef534b5b6d07c241e41359398eac14293ade1a4aaf25adb
+        http://127.0.0.1:8889/tree?token=4ef534b5b6d07c241e41359398eac14293ade1a4aaf25adb
+[I 2024-10-11 09:31:12.186 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-10-11 09:31:34.107 ServerApp] Kernel started: bb26f03f-297e-49d1-9289-991b7688dc08
+[I 2024-10-11 09:31:34.715 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[I 2024-10-11 09:31:41.378 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[I 2024-10-11 09:31:44.246 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[I 2024-10-11 09:33:34.289 ServerApp] Saving file at /7-node.ipynb
