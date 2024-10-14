@@ -309,3 +309,48 @@ Partial Empirical Reward Distribution: {0.25: 0.95135, 30: 0.0397, 300: 0.00815,
 Partial Empirical Reward Distribution: {0.25: 0.9542, 30: 0.0377, 300: 0.0073, 3000: 0.0008}
 Partial Empirical Reward Distribution: {0.25: 0.95465, 30: 0.0372, 300: 0.00735, 3000: 0.0008}
 Partial Empirical Reward Distribution: {0.25: 0.96395, 30: 0.02915, 3000: 0.00075, 300: 0.00615}
+Partial Empirical Reward Distribution: {0.25: 0.9564, 30: 0.0368, 300: 0.0061, 3000: 0.0007}
+Partial Empirical Reward Distribution: {0.25: 0.97075, 300: 0.00195, 30: 0.0272, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.96235, 30: 0.03445, 300: 0.0031, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.956, 30: 0.04055, 300: 0.00335, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.9555, 30: 0.04105, 300: 0.00335, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.9471, 30: 0.04905, 300: 0.00375, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.94505, 30: 0.05095, 300: 0.0039, 3000: 0.0001}
+Partial Empirical Reward Distribution: {0.25: 0.95845, 30: 0.04, 300: 0.00155}
+Agent checkpoint saved at iteration 9000 in 5.
+Model checkpoint saved at iteration 9000 in 5.
+Partial Empirical Reward Distribution: {0.25: 0.9556, 30: 0.04215, 300: 0.00225}
+Partial Empirical Reward Distribution: {0.25: 0.9574, 30: 0.0405, 300: 0.0021}
+Partial Empirical Reward Distribution: {0.25: 0.969, 30: 0.02895, 300: 0.00205}
+Partial Empirical Reward Distribution: {0.25: 0.96805, 30: 0.03075, 300: 0.0012}
+Partial Empirical Reward Distribution: {0.25: 0.96775, 30: 0.031, 300: 0.00125}
+Partial Empirical Reward Distribution: {0.25: 0.97235, 30: 0.0269, 300: 0.00075}
+Partial Empirical Reward Distribution: {0.25: 0.9712, 30: 0.028, 300: 0.0008}
+Partial Empirical Reward Distribution: {0.25: 0.95595, 30: 0.04255, 300: 0.0015}
+Partial Empirical Reward Distribution: {0.25: 0.93935, 30: 0.0585, 300: 0.0021, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9243, 30: 0.07315, 300: 0.0025, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.92535, 30: 0.07165, 300: 0.00295, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.92805, 30: 0.06925, 300: 0.00265, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9402, 30: 0.0575, 300: 0.00225, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9523, 30: 0.04405, 300: 0.0035, 3000: 0.00015}
+Partial Empirical Reward Distribution: {0.25: 0.95865, 30: 0.03795, 300: 0.00325, 3000: 0.00015}
+Partial Empirical Reward Distribution: {0.25: 0.9691, 30: 0.02825, 300: 0.0025, 3000: 0.00015}
+Partial Empirical Reward Distribution: {0.25: 0.96945, 30: 0.0279, 300: 0.0025, 3000: 0.00015}
+Partial Empirical Reward Distribution: {0.25: 0.97, 30: 0.02735, 300: 0.0025, 3000: 0.00015}
+Partial Empirical Reward Distribution: {0.25: 0.98945, 30: 0.01025, 300: 0.0003}
+Partial Empirical Reward Distribution: {0.25: 0.99095, 30: 0.0088, 300: 0.00025}
+Partial Empirical Reward Distribution: {0.25: 0.99945, 30: 0.00055}
+Partial Empirical Reward Distribution: {0.25: 0.99955, 30: 0.00045}
+Partial Empirical Reward Distribution: {0.25: 0.9966, 30: 0.00295, 300: 0.00045}
+Partial Empirical Reward Distribution: {0.25: 0.9964, 30: 0.00315, 300: 0.00045}
+Partial Empirical Reward Distribution: {0.25: 0.99665, 30: 0.0029, 300: 0.00045}
+Partial Empirical Reward Distribution: {0.25: 0.99215, 30: 0.00735, 300: 0.0005}
+Partial Empirical Reward Distribution: {0.25: 0.99225, 30: 0.00725, 300: 0.0005}
+Partial Empirical Reward Distribution: {0.25: 0.9873, 30: 0.01195, 300: 0.0007, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.98995, 30: 0.00975, 300: 0.00025, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9895, 30: 0.01015, 300: 0.0003, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9873, 30: 0.01225, 300: 0.0004, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.9917, 30: 0.0079, 300: 0.00035, 3000: 5e-05}
+Partial Empirical Reward Distribution: {0.25: 0.992, 30: 0.0077, 300: 0.00025, 3000: 5e-05}
+Agent checkpoint saved at iteration 10000 in 5.
+Model checkpoint saved at iteration 10000 in 5.

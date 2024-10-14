@@ -33,3 +33,214 @@ nohup: ignoring input
 [I 2024-10-11 09:31:41.378 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
 [I 2024-10-11 09:31:44.246 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
 [I 2024-10-11 09:33:34.289 ServerApp] Saving file at /7-node.ipynb
+[I 2024-10-11 13:04:39.138 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[W 2024-10-11 13:04:39.146 ServerApp] 404 GET /api/contents/7-node.ipynb?type=notebook&content=1&hash=1&1728666279006 (e59b577cc7f14f1faa591f7b7988c7c0@::1) 5.27ms referer=http://127.0.0.1:8889/notebooks/7-node.ipynb
+[W 2024-10-11 13:04:39.146 ServerApp] 404 GET /api/contents/7-node.ipynb?type=notebook&content=1&hash=1&1728666279006 (::1): No such file or directory: 7-node.ipynb
+[I 2024-10-11 13:04:43.572 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[W 2024-10-11 13:04:45.453 ServerApp] Notebook 5-node.ipynb is not trusted
+[I 2024-10-11 13:04:46.122 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[W 2024-10-11 13:04:46.256 ServerApp] Notebook 5-node.ipynb is not trusted
+[I 2024-10-11 13:04:46.711 ServerApp] Kernel started: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 13:04:47.359 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-11 13:06:34.716 ServerApp] WebSocket ping timeout after 119897 ms.
+[I 2024-10-11 13:06:39.717 ServerApp] Starting buffering for bb26f03f-297e-49d1-9289-991b7688dc08:22fd6776-a79f-44e3-aa4e-7a79e3ba3890
+[I 2024-10-11 13:06:46.364 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:08:46.523 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:10:46.659 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:12:46.879 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:14:47.364 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:16:47.544 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:18:48.286 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:20:49.324 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:22:50.283 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:24:51.320 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:26:52.323 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:28:53.319 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:29:47.081 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 13:30:54.303 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:34:56.302 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:36:56.471 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:38:56.675 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:40:47.935 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 13:40:56.799 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 13:42:56.924 ServerApp] Saving file at /5-node.ipynb
+[W 2024-10-11 13:43:10.512 ServerApp] Replacing stale connection: 8292a5ef-7b47-48c4-9a12-6306b418ed61:bb2be576-9228-4334-a1a8-3d71b710e9c5
+[I 2024-10-11 13:43:10.513 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-11 13:43:12.270 ServerApp] 
+[W 2024-10-11 13:43:12.470 ServerApp] 
+[W 2024-10-11 13:43:12.652 ServerApp] 
+[W 2024-10-11 13:43:14.880 ServerApp] 
+[W 2024-10-11 13:44:40.517 ServerApp] WebSocket ping timeout after 90004 ms.
+[I 2024-10-11 13:44:45.520 ServerApp] Starting buffering for 8292a5ef-7b47-48c4-9a12-6306b418ed61:bb2be576-9228-4334-a1a8-3d71b710e9c5
+[I 2024-10-11 15:59:57.995 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-11 15:59:57.995 ServerApp] Restoring connection for 8292a5ef-7b47-48c4-9a12-6306b418ed61:bb2be576-9228-4334-a1a8-3d71b710e9c5
+[I 2024-10-11 15:59:58.003 ServerApp] Replaying 10220 buffered messages
+[W 2024-10-11 15:59:58.153 ServerApp] IOPub message rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[I 2024-10-11 16:00:36.942 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[I 2024-10-11 16:00:37.043 ServerApp] Starting buffering for bb26f03f-297e-49d1-9289-991b7688dc08:72ba2037-164d-45ec-bd50-5994e4824004
+[I 2024-10-11 16:00:37.103 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-11 16:00:38.597 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[I 2024-10-11 16:00:38.725 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-11 16:00:38.743 ServerApp] Starting buffering for bb26f03f-297e-49d1-9289-991b7688dc08:0e023dd1-b307-477a-ba6d-d226078986f9
+[I 2024-10-11 16:00:38.817 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-11 16:02:27.997 ServerApp] WebSocket ping timeout after 119967 ms.
+[I 2024-10-11 16:02:39.070 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:04:39.242 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:29:50.946 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:31:51.140 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:33:51.283 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:35:51.385 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:37:51.523 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:38:23.550 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 16:39:52.011 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:49:22.871 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 16:49:55.941 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:50:31.256 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 16:51:55.560 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 16:51:56.046 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:53:56.147 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:55:56.260 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:57:56.380 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 16:59:56.477 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:01:56.596 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:03:56.739 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:05:56.912 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:07:57.106 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:09:57.199 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:11:57.368 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:13:57.983 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:15:59.009 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:17:59.960 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:20:00.968 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:22:01.954 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:24:02.132 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:26:02.981 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:28:03.976 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:30:04.127 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:32:04.990 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:34:05.981 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:36:06.981 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:38:07.267 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:40:07.385 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:42:07.543 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:44:07.751 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:46:07.905 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:48:09.007 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:50:10.009 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:52:11.010 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:54:08.652 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 17:54:11.128 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 17:56:12.007 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:08:50.031 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:11:40.609 ServerApp] Connecting to kernel bb26f03f-297e-49d1-9289-991b7688dc08.
+[W 2024-10-11 18:11:40.675 ServerApp] Notebook 5-node.ipynb is not trusted
+[I 2024-10-11 18:11:40.759 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-11 18:11:40.795 ServerApp] Starting buffering for bb26f03f-297e-49d1-9289-991b7688dc08:f7cc84b2-94a3-4446-8529-4cff6be41883
+[I 2024-10-11 18:11:40.925 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-11 18:13:38.821 ServerApp] WebSocket ping timeout after 119907 ms.
+[W 2024-10-11 18:13:39.170 ServerApp] 
+[I 2024-10-11 18:13:40.978 ServerApp] Saving file at /5-node.ipynb
+[W 2024-10-11 18:13:43.318 ServerApp] 
+[I 2024-10-11 18:15:41.098 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:17:41.229 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:19:41.340 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:21:41.482 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:23:41.682 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:25:41.990 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:27:42.940 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 18:29:43.938 ServerApp] Saving file at /5-node.ipynb
+[W 2024-10-11 18:31:32.112 ServerApp] Replacing stale connection: 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[I 2024-10-11 18:31:32.113 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-11 18:31:32.278 ServerApp] 
+[W 2024-10-11 18:31:32.558 ServerApp] 
+[W 2024-10-11 18:31:32.822 ServerApp] 
+[W 2024-10-11 18:31:33.105 ServerApp] 
+[W 2024-10-11 18:31:33.364 ServerApp] 
+[W 2024-10-11 18:31:33.622 ServerApp] 
+[W 2024-10-11 18:31:33.875 ServerApp] 
+[W 2024-10-11 18:31:34.134 ServerApp] 
+[W 2024-10-11 18:31:34.407 ServerApp] 
+[W 2024-10-11 18:31:34.676 ServerApp] 
+[W 2024-10-11 18:31:34.946 ServerApp] 
+[W 2024-10-11 18:31:35.220 ServerApp] 
+[W 2024-10-11 18:31:35.475 ServerApp] 
+[W 2024-10-11 18:31:35.749 ServerApp] 
+[W 2024-10-11 18:31:36.009 ServerApp] 
+[W 2024-10-11 18:31:36.256 ServerApp] 
+[W 2024-10-11 18:31:36.526 ServerApp] 
+[W 2024-10-11 18:31:36.799 ServerApp] 
+[W 2024-10-11 18:31:37.061 ServerApp] 
+[W 2024-10-11 18:33:02.114 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2024-10-11 18:33:02.149 ServerApp] 
+[W 2024-10-11 18:33:02.320 ServerApp] 
+[W 2024-10-11 18:33:02.511 ServerApp] 
+[W 2024-10-11 18:33:02.701 ServerApp] 
+[W 2024-10-11 18:33:02.896 ServerApp] 
+[W 2024-10-11 18:33:03.086 ServerApp] 
+[W 2024-10-11 18:33:03.284 ServerApp] 
+[W 2024-10-11 18:33:03.499 ServerApp] 
+[W 2024-10-11 18:33:03.694 ServerApp] 
+[W 2024-10-11 18:33:03.901 ServerApp] 
+[W 2024-10-11 18:33:04.108 ServerApp] 
+[W 2024-10-11 18:33:04.306 ServerApp] 
+[W 2024-10-11 18:33:04.518 ServerApp] 
+[W 2024-10-11 18:33:04.741 ServerApp] 
+[W 2024-10-11 18:33:04.959 ServerApp] 
+[W 2024-10-11 18:33:05.185 ServerApp] 
+[W 2024-10-11 18:33:05.435 ServerApp] 
+[W 2024-10-11 18:33:05.670 ServerApp] 
+[W 2024-10-11 18:33:05.898 ServerApp] 
+[W 2024-10-11 18:33:06.130 ServerApp] 
+[W 2024-10-11 18:33:06.365 ServerApp] 
+[W 2024-10-11 18:33:06.609 ServerApp] 
+[W 2024-10-11 18:33:06.870 ServerApp] 
+[I 2024-10-11 18:33:07.115 ServerApp] Starting buffering for 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[I 2024-10-11 22:04:48.105 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-11 22:04:48.106 ServerApp] Restoring connection for 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[I 2024-10-11 22:04:48.114 ServerApp] Replaying 6387 buffered messages
+[W 2024-10-11 22:04:48.261 ServerApp] IOPub message rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[I 2024-10-11 22:06:27.137 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 22:14:50.127 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 22:14:52.033 ServerApp] Kernel interrupted: 8292a5ef-7b47-48c4-9a12-6306b418ed61
+[I 2024-10-11 22:16:29.125 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 22:18:29.292 ServerApp] Saving file at /5-node.ipynb
+[I 2024-10-11 22:20:29.516 ServerApp] Saving file at /5-node.ipynb
+[W 2024-10-12 00:54:22.580 ServerApp] Replacing stale connection: 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[I 2024-10-12 00:54:22.582 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[W 2024-10-12 00:54:22.591 ServerApp] 
+[W 2024-10-12 00:54:22.592 ServerApp] 
+[W 2024-10-12 00:54:22.593 ServerApp] 
+[W 2024-10-12 00:54:22.594 ServerApp] 
+[W 2024-10-12 00:54:22.641 ServerApp] 
+[W 2024-10-12 00:54:22.642 ServerApp] 
+[W 2024-10-12 00:54:22.644 ServerApp] 
+[W 2024-10-12 00:54:22.646 ServerApp] 
+[W 2024-10-12 00:54:22.647 ServerApp] 
+[W 2024-10-12 00:54:22.647 ServerApp] 
+[W 2024-10-12 00:54:22.648 ServerApp] 
+[W 2024-10-12 00:54:22.688 ServerApp] 
+[W 2024-10-12 00:54:22.689 ServerApp] 
+[W 2024-10-12 00:55:52.583 ServerApp] WebSocket ping timeout after 90001 ms.
+[I 2024-10-12 00:55:57.587 ServerApp] Starting buffering for 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[I 2024-10-13 05:04:36.086 ServerApp] Connecting to kernel 8292a5ef-7b47-48c4-9a12-6306b418ed61.
+[I 2024-10-13 05:04:36.086 ServerApp] Restoring connection for 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
+[W 2024-10-13 05:21:06.089 ServerApp] WebSocket ping timeout after 119980 ms.
+[I 2024-10-13 05:21:11.091 ServerApp] Starting buffering for 8292a5ef-7b47-48c4-9a12-6306b418ed61:17e1395f-9256-40b4-af26-52eb79ae94f6
